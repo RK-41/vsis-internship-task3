@@ -95,7 +95,7 @@ h1 {
 }
 
 /* Completed todo item styling */
-.todo-item.completed {
+.todo-item .completed {
 	color: #05c005;
 	background-color: #222222;
 }

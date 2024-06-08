@@ -69,19 +69,19 @@ h1 {
 	background-color: #9b6bcc;
 }
 
-/* Todo container styling */
+/* To-Do container styling */
 .todo-container {
 	max-height: 450px;
 	overflow-y: auto;
 }
 
-/* Todo list styling */
+/* To-Do list styling */
 #todo-list {
 	list-style: none;
 	padding: 0;
 }
 
-/* Todo item styling */
+/* To-Do item styling */
 .todo-item {
 	display: flex;
 	justify-content: space-between;

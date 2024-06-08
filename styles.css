@@ -96,8 +96,7 @@ h1 {
 
 /* Completed todo item styling */
 .todo-item.completed {
-	/* text-decoration: line-through; */
-	color: gray;
+	color: #05c005;
 	background-color: #222222;
 }
 
@@ -121,11 +120,11 @@ h1 {
 }
 
 .todo-item .delete-btn {
-	background-color: rgb(220, 0, 0);
+	background-color: #dc0000;
 }
 
 .todo-item .complete-btn {
-	background-color: rgb(5, 192, 5);
+	background-color: #05c005;
 }
 
 /* Media queries for responsive design */

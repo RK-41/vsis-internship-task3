@@ -19,3 +19,5 @@ This is a simple Todo App built using HTML, CSS, and JavaScript. The app allows 
 3. **Delete a Todo:** Click the "Delete" button next to the task you want to remove.
 4. **Complete a Todo:** Click the "Complete" button to mark a task as completed or uncompleted.
 
+## App's Snap
+![task3](https://github.com/RK-41/vsis-internship-task3/assets/73783957/bfaa0fb7-e224-493b-a220-1a037502a351)

@@ -2,6 +2,8 @@
 
 This is a simple Todo App built using HTML, CSS, and JavaScript. The app allows users to manage their daily tasks with the following features:
 
+[Check it out](https://basic-todo-webapp.netlify.app/)
+
 ## Features
 
 - **Add Todo:** Users can add new todos to the list.
